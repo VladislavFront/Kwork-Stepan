@@ -72,7 +72,7 @@ body {
 }
 
 .people-block {
-  width: 650px;
+  width: 450px;
   height: auto;
 
   display: flex;
@@ -99,7 +99,6 @@ body {
   display: flex;
   align-items: center;
   gap: 10px;
-  font-size: 1.2rem;
 }
 
 .people-avatar {
@@ -110,7 +109,7 @@ body {
 
 .block-info {
   margin-top: 20px;
-  font-size: 1.2rem;
+  font-size: 0.8rem;
 }
 
 .people-spec {
